@@ -1,0 +1,1 @@
+web:gunicorn Salary_hike_app:app
